@@ -1,0 +1,40 @@
+🔊 Exemplo no Azure Speech Studio: Transcrição de Áudio (Speech to Text)
+🧭 Etapas:
+
+1- Acesse o Speech Studio:
+Link: https://speech.microsoft.com
+Faça login com sua conta Microsoft/Azure.
+
+2-Escolha a funcionalidade:
+No menu lateral, selecione "Speech to Text" > "Try Speech to Text".
+
+3- Faça upload ou grave um áudio:
+Você pode gravar um novo áudio ou fazer o upload de um arquivo .wav ou .mp3.
+
+4- Visualize a transcrição:
+O áudio será transcrito automaticamente.
+Você verá o texto dividido por tempo e orador (se habilitado).
+
+5- Ajuste o modelo (opcional):
+Clique em "Customize" para adaptar o modelo com vocabulário específico, como nomes técnicos, jargões ou sotaques.
+
+🧠 Exemplo no Azure Language Studio: Análise de Sentimento de Texto
+🧭 Etapas:
+
+1- Acesse o Language Studio:
+Link: https://language.azure.com
+Faça login com sua conta Microsoft/Azure.
+
+2- Escolha a funcionalidade:
+No menu lateral, selecione "Analyze text" > "Sentiment analysis".
+
+3- Digite ou cole um texto:
+Exemplo: "O atendimento foi excelente, mas a entrega demorou muito."
+
+4- Veja os resultados:
+O sistema mostra a análise do sentimento (positivo, negativo, neutro).
+Também exibe a opinião por frase, com identificação de aspectos positivos e negativos.
+
+5- Teste em outros idiomas:
+Você pode mudar o idioma e testar, por exemplo, em inglês, espanhol ou francês.
+
