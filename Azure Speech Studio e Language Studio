@@ -1,0 +1,25 @@
+🔊 Azure Speech Studio
+O Azure Speech Studio é voltado para soluções relacionadas à fala (voz) e permite que você experimente, treine e integre modelos de conversão de voz em texto e vice-versa.
+
+Principais Funcionalidades:
+1- Conversão de Fala em Texto (Speech to Text): Transcrição de áudios e vídeos para texto; Suporte a múltiplos idiomas; Modelos customizáveis para vocabulário específico.
+2- Conversão de Texto em Fala (Text to Speech): Geração de voz a partir de texto com vozes neurais realistas; Suporte à personalização de pronúncia e entonação (SSML); Criação de vozes personalizadas (Custom Neural Voice).
+3- Tradução de Fala (Speech Translation): Tradução em tempo real de fala em diferentes idiomas; Suporte à legenda de vídeo multilíngue.
+4- Reconhecimento de Intenção e Comando por Voz: Interação com bots e sistemas por meio de comandos falados.
+5- Customização e Treinamento: Treinamento de modelos acústicos e de linguagem personalizados; Suporte a diferentes perfis acústicos (ruído, sotaques).
+
+🧠 Azure Language Studio
+O Azure Language Studio é focado em processamento de linguagem natural (NLP) e oferece ferramentas para análise de texto, extração de informações e compreensão de linguagem.
+
+Principais Funcionalidades:
+1- Análise de Texto: Extração de sentimentos (positivos, negativos, neutros); Detecção de idioma; Extração de entidades nomeadas (pessoas, locais, organizações); Análise de opinião.
+2- Extração de Informações (Named Entity Recognition): Identificação e categorização de informações específicas dentro de textos.
+3- Classificação de Texto Personalizada: Criação e treinamento de classificadores de texto com dados próprios.
+4- Extração de Frases-Chave: Identificação automática dos principais tópicos em um texto.
+5- Compreensão de Documentos (Document Intelligence): Análise semântica de textos longos ou documentos estruturados.
+6- QnA Maker (Conversão em FAQs interativos): Criação de bots baseados em documentos de perguntas e respostas.
+7- Modelos de Linguagem Pré-Treinados e Customizados: Uso de modelos prontos ou criação de modelos adaptados a contextos específicos.
+
+🧩 Integração com Outros Serviços
+Tanto o Speech Studio quanto o Language Studio podem ser integrados com:
+Azure Bot Service; Power Virtual Agents; Power Automate; Azure Functions; Apps Web/Mobile.
